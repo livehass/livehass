@@ -1,12 +1,10 @@
 <h1 align="center">Olá 👋, Me chamo Jorge Felipe</h1>
 <h3 align="center">Estudando atualmente java, focado em back-end</h3>
-<p><img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"/></p>
+<p><img align="right" alt="Coding" width="1600" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=livehass&label=Profile%20views&color=0e75b6&style=flat" alt="livehass" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=livehass&label=Profile%20views&color=0e75b6&style=flat" alt="livehass" /> <p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=livehass" alt="livehass" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@livehass" target="blank"><img src="https://img.shields.io/twitter/follow/@livehass?logo=twitter&style=for-the-badge" alt="@livehass" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@livehass" target="blank"><img src="https://img.shields.io/twitter/follow/@livehass?logo=twitter&style=for-the-badge" alt="@sieuus" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
