@@ -2,10 +2,9 @@
 <h2 align="center">Estudando Análise e Desenvolvimento de Sistemas, focado em Java</h2>
 
 <h3 🌱 Atualmente Estudando: Java, Springbot, SqlServer </h3> 
+##
 
 
-
-<a href="https://github.com/livehass" target="_blank"><img src="https://img.shields.io/badge/Meus-projetos-green" target="_blank"></a>
 
 <div align="center">
   <a href="https://github.com/livehass">
@@ -36,5 +35,5 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=livehass&label=Profile%20views&color=0e75b6&style=flat" alt="livehass" /> </p>
+<a href="https://github.com/livehass" target="_blank"><img src="https://img.shields.io/badge/Meus-projetos-green" target="_blank"></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=livehass&label=Profile%20views&color=0e75b6&style=flat" alt="livehass" /> </p>
 
