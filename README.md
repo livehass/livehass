@@ -2,8 +2,6 @@
 <h3 align="center">Estudando Análise e Desenvolvimento de Sistemas, focado em Java como principal linguagem back-end</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=livehass&label=Profile%20views&color=0e75b6&style=flat" alt="livehass" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@sieuus" target="blank"><img src="https://img.shields.io/twitter/follow/@sieuus?logo=twitter&style=for-the-badge" alt="@sieuus" /></a> </p>
-
 - 🌱 Atualmente Estudando: **Java,Frameworks,SqlServer**
 
 - 👨‍💻 Todos meus projetos em: [https://github.com/livehass](https://github.com/livehass)
