@@ -1,13 +1,13 @@
 <h1 align="center"> Olá 👋, Me chamo Jorge Felipe</h1>
 <h2 align="center">Estudando Análise e Desenvolvimento de Sistemas, focado em Java</h2>
-</h3>🌱 Atualmente Estudando: Java, Springbot, SqlServer  </h3>
-
+<h3 align="center">🌱 Atualmente Estudando: Java, Springbot, SqlServer</h3>
 
 <div align="center">
   <a href="https://github.com/livehass">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livehass&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livehass&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=livehass&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livehass&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+
+
 
 </div>
 <div style="display: inline_block"><br>
