@@ -1,6 +1,6 @@
 <h1 align="center"> Olá 👋, Me chamo Jorge Felipe</h1>
 <h2 align="center">Estudando Análise e Desenvolvimento de Sistemas, focado em Java</h2>
-<h3 align="center">🌱 Atualmente Estudando: Java, Springbot, SqlServer</h3>
+
 
 <div align="center">
   <a href="https://github.com/livehass">
