@@ -1,28 +1,40 @@
-<p><img align="right" alt="Coding" width="900" src="https://raw.githubusercontent.com/livehass/livehass/main/backgroundimage.png" /> </p>
+<h1 align="center"> Olá 👋, Me chamo Jorge Felipe</h1>
+<h2 align="center">Estudando Análise e Desenvolvimento de Sistemas, focado em Java</h2>
+
+<h3 🌱 Atualmente Estudando: Java, Springbot, SqlServer </h3> 
 
 
 
-## Olá 👋, Me chamo Jorge Felipe
-<h3 align="center">Estudando Análise e Desenvolvimento de Sistemas, focado em Java como principal linguagem back-end</h3>
+<a href="https://github.com/livehass" target="_blank"><img src="https://img.shields.io/badge/Meus-projetos-green" target="_blank"></a>
+
+<div align="center">
+  <a href="https://github.com/livehass">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livehass&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livehass&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Hass-java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Hass-Sql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Hass-SqlS" height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+  <img align="center" alt="Hass-AWSL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"<
+  <img align="center" alt="Hass-Azu" height="50" width="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+  <img align="center" alt="HassSpring" height="50" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+  <img align="center" alt="HassGit" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="right" alt="Java-Pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/livehass/files/master/java.gif?width=676&height=676">
+</div>
+
+##
+
+<div> 
+  <a href="https://www.instagram.com/felipe.siper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/sieuus" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href = "mailto:Silva.felipe12@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jorge-felipe-silva-26b29b11a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=livehass&label=Profile%20views&color=0e75b6&style=flat" alt="livehass" /> </p>
-
-
-
-- 🌱 Atualmente Estudando: **Java,Frameworks,SqlServer**
-
-- 👨‍💻 Todos meus projetos em: [https://github.com/livehass](https://github.com/livehass)
-
-- 📫 Como me contatar: **Silva.felipe12@hotmail.com**
-
-<h3 align="left">Redes Sociais:</h3>
-<p align="left">
-<a href="https://twitter.com/@sieuus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sieuus" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jorge-felipe-silva-26b29b11a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-felipe-silva-26b29b11a/" height="30" width="40" /></a> <a href="https://instagram.com/@felipe.siper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@felipe.siper" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Linguagens e ferramentas:</h3>
-
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=livehass&show_icons=true&locale=en&layout=compact" alt="livehass" /></p>
-
-
 
