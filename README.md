@@ -1,4 +1,4 @@
-<p><img align="right" alt="Coding" width="800" src="https://raw.githubusercontent.com/livehass/livehass/main/backgroundimage.png" /> </p>
+<p><img align="right" alt="Coding" width="900" src="https://raw.githubusercontent.com/livehass/livehass/main/backgroundimage.png" /> </p>
 
 
 
