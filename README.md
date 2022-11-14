@@ -2,8 +2,6 @@
 <h2 align="center">Estudando Análise e Desenvolvimento de Sistemas, focado em Java</h2>
 
 <h3 🌱 Atualmente Estudando: Java, Springbot, SqlServer </h3> 
-##
-
 
 
 <div align="center">
@@ -24,7 +22,7 @@
   <img align="right" alt="Java-Pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/livehass/files/master/java.gif?width=676&height=676">
 </div>
 
-##
+
 
 <div> 
   <a href="https://www.instagram.com/felipe.siper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
