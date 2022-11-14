@@ -13,14 +13,14 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Hass-java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Hass-Sql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Hass-SqlS" height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-  <img align="center" alt="Hass-AWSL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"<
-  <img align="center" alt="Hass-Azu" height="50" width="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
-  <img align="center" alt="HassSpring" height="50" width="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
-  <img align="center" alt="HassGit" height="50" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="right" alt="Java-Pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/livehass/files/master/java.gif?width=676&height=676">
+  <img align="center" alt="Hass-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Hass-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Hass-SqlS" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+  <img align="center" alt="Hass-AWSL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"<
+  <img align="center" alt="Hass-Azu" height="40" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
+  <img align="center" alt="HassSpring" height="40" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+  <img align="center" alt="HassGit" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="right" alt="Java-Pic" height="120" style="border-radius:50px;" src="https://raw.githubusercontent.com/livehass/files/master/java.gif?width=676&height=676">
 </div>
 
 ##
