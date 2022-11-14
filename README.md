@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, Me chamo Jorge Felipe</h1>
 <h3 align="center">Estudando Análise e Desenvolvimento de Sistemas, focado em Java como principal linguagem back-end</h3>
 
-
-
 <p align="left"> <a href="https://twitter.com/@sieuus" target="blank"><img src="https://img.shields.io/twitter/follow/@sieuus?logo=twitter&style=for-the-badge" alt="@sieuus" /></a> </p>
 
 - 🌱 Atualmente Estudando: **Java,Frameworks,SqlServer**
