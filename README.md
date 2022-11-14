@@ -1,4 +1,4 @@
-<p>< img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/livehass/livehass/main/backgroundimage.png" /></p>
+<p><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/livehass/livehass/main/backgroundimage.png" /></p>
 <h1 align="center">Olá 👋, Me chamo Jorge Felipe</h1>
 <h3 align="center">Estudando Análise e Desenvolvimento de Sistemas, focado em Java como principal linguagem back-end</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=livehass&label=Profile%20views&color=0e75b6&style=flat" alt="livehass" /> </p>
