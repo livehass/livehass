@@ -3,9 +3,6 @@
 name: Generate Snake
 
         
-node-version: ${{ matrix.version }}
-
-
 # Controls when the action will run. This action runs every 6 hours.
 
 on:
