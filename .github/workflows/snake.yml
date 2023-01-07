@@ -1,10 +1,10 @@
 
 
 name: Generate Snake
-steps:
-      - uses: actions/setup-node@v3
-        with:
-          node-version: ${{ matrix.version }}
+
+uses: actions/setup-node@v3
+        
+node-version: ${{ matrix.version }}
 
 
 # Controls when the action will run. This action runs every 6 hours.
