@@ -1,6 +1,8 @@
 
 
 name: Generate Snake
+using: 'node16'
+
 
 # Controls when the action will run. This action runs every 6 hours.
 
