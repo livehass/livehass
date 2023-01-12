@@ -35,7 +35,8 @@
  <a href = "mailto:Silva.felipe12@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jorge-felipe-silva-26b29b11a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- #### Meus projetos:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=felipe0555&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=ae00ff&bar_color_cover=false&align="center")](https://spotify-github-profile.vercel.app/api/view?uid=felipe0555&redirect=true)
+  #### Meus projetos:
 </div>
 
 <a href="https://github.com/livehass?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Meus-projetos-green" target="_blank"></a>
