@@ -8,7 +8,7 @@
 </div>
 
 
-##
+# Linguagens e applicações que estudo atualmente:
 
 
 </div>
@@ -20,7 +20,7 @@
   <img align="center" alt="live-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="prog" height="120" style="border-radius:50px;" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif?width=676&height=676">
 </div>
-##
+
 
 <div> 
   <a href="https://www.instagram.com/felipe.siper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
