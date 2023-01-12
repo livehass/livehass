@@ -13,12 +13,12 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="live-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="live-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="live-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="live-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="live-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="live-bs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+ <code><img alt="live-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+ <code><img alt="live-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
+ <code><img alt="live-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+ <code><img alt="live-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+ <code><img alt="live-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+ <code><img alt="live-bs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
         
   <img align="right" alt="prog" height="120" style="border-radius:50px;" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif?width=676&height=676">
 </div>
@@ -35,7 +35,7 @@
  #### Meus projetos:
 </div>
 
-<a  href="https://github.com/livehass?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Meus-projetos-green" target="_blank"></a>
+<a href="https://github.com/livehass?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Meus-projetos-green" target="_blank"></a>
 <img src="https://komarev.com/ghpvc/?username=livehass&label=Profile%20views&color=0e75b6&style=flat" alt="livehass"> </a></p>
 
 
