@@ -4,10 +4,9 @@
 ## Olá, Sou o Felipe mantenho alguns projetos aqui, a maior parte Front-end!
 
 <div align="center">
-  <a href="https://github.com/livehass">
-  <img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=livehass&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark"/>
-    
-  <img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=livehass&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<a href="https://github.com/livehass">
+<img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=livehass&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
+<img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=livehass&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 
