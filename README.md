@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/livehass"><img width="70%"  alt="Olá, sou o felipe" src="https://github.com/livehass/files/blob/master/logo1.png" /></a></p>
 
 
-## Olá, sou o Felipe Mantenho alguns projetos aqui, a maior parte Front-end
+## Olá, Sou o Felipe mantenho alguns projetos aqui, a maior parte Front-end!
 
 <div align="center">
   <a href="https://github.com/livehass">
