@@ -41,6 +41,10 @@
 <a href="https://github.com/livehass?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Meus-projetos-green" target="_blank"></a>
 <img src="https://komarev.com/ghpvc/?username=livehass&label=Profile%20views&color=0e75b6&style=flat" alt="livehass"> </a></p>
 
+![snake gif](https://github.com/livehass/livehass/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![snake svg](https://github.com/livehass/livehass/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
