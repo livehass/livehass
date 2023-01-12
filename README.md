@@ -1,4 +1,4 @@
-##  Oi sou o Felipe: Front-end developer
+#  Oi sou o Felipe: Front-end developer
 
 
 <div align="center">
@@ -8,7 +8,7 @@
 </div>
 
 
-# Linguagens e applicações que estudo atualmente:
+## Linguagens e applicações que estudo atualmente:
 
 
 </div>
@@ -23,7 +23,7 @@
   <img align="right" alt="prog" height="120" style="border-radius:50px;" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif?width=676&height=676">
 </div>
 
-# Links para contato:   
+### Links para contato:   
             
           
 <div> 
@@ -32,7 +32,12 @@
  <a href = "mailto:Silva.felipe12@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jorge-felipe-silva-26b29b11a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- 
+ #### Meus projetos:
 </div>
-<a href="https://github.com/livehass?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Meus-projetos-green" target="_blank"></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=livehass&label=Profile%20views&color=0e75b6&style=flat" alt="livehass" /> </p>
+
+<a  href="https://github.com/livehass?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Meus-projetos-green" target="_blank"></a>
+<img src="https://komarev.com/ghpvc/?username=livehass&label=Profile%20views&color=0e75b6&style=flat" alt="livehass"> </a></p>
+
+
+
 
