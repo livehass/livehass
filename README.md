@@ -1,10 +1,9 @@
-# Olá, sou o Felipe: Aqui guardo alguns projetos, a maior parte Front-end
-<div align="center">
-<p ><a href="https://github.com/livehass"><img width="60%" alt="Olá, sou o felipe" src="https://github.com/livehass/files/blob/master/logo.png" /></a></p>
-</div>
+<p align="center"><a href="https://github.com/livehass"><img width="40%"  alt="Olá, sou o felipe" src="https://github.com/livehass/files/blob/master/logo.png" /></a></p>
+
+
+## Olá, sou o Felipe Mantenho alguns projetos aqui, a maior parte Front-end
 
 <div align="center">
-
   <a href="https://github.com/livehass">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=livehass&show_icons=true&themesynthwave&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livehass&layout=compact&langs_count=7&theme=synthwave"/>
