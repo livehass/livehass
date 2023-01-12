@@ -1,4 +1,4 @@
-##    Oi eu sou o Felipe Estudando Análise e Desenvolvimento de Sistemas, focado em Java
+##  Oi sou o Felipe: Front-end developer
 
 
 <div align="center">
