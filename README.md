@@ -1,8 +1,3 @@
-<p align="center"><a href="https://github.com/livehass"><img width="70%"  alt="Olá, sou o felipe" src="https://github.com/livehass/files/blob/master/logo1.png" /></a></p>
-
-
-## Olá, Sou o Felipe mantenho alguns projetos aqui, a maior parte Front-end!
-
 <div align="center">
 <a href="https://github.com/livehass">
 <img height="145em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=livehass&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
@@ -21,8 +16,6 @@
  <code><img alt="live-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
  <code><img alt="live-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
  <code><img alt="live-bs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
-        
-  <img align="right" alt="prog" height="120" style="border-radius:50px;" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif?width=676&height=676">
 </div>
 
 ### Links para contato:   
