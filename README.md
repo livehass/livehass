@@ -6,7 +6,7 @@
 
 </div>
 <div align="center""><br>
- <h1>what's i'm learning now:</h1>
+ <h1>What's i'm learning now: <a href="https://github.com/livehass/Guia-estudos-front-end"> Meu Plano de Estudos<a/></h1>
  <code><img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
  <code><img alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
  <code><img alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
