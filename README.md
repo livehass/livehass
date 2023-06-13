@@ -1,9 +1,3 @@
-<div align="center">
-<a href="https://github.com/livehass">
-<img height="145em" src="https://github-readme-stats.vercel.app/api?username=livehass&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"/>
-<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livehass&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
 </div>
 <div align="center""><br>
  <h1>What's i'm learning now: <a href="https://github.com/livehass/Guia-estudos-front-end"> Meu Plano de Estudos<a/></h1>
@@ -28,6 +22,10 @@
 <div align="center">
 <a href="https://github.com/livehass?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Meus-projetos-green" target="_blank"></a>
 <img src="https://komarev.com/ghpvc/?username=livehass&label=Profile%20views&color=0e75b6&style=flat" alt="livehass"> </a></p>
+
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=livehass)]
+
                                                                                                                     
  ![snake svg](https://github.com/livehass/livehass/blob/output/github-contribution-grid-snake-dark.svg)                                                                                                                   
 </div>
