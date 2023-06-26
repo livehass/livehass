@@ -1,6 +1,6 @@
 </div>
 <div align="center""><br>
-<p align="center"><img width="30%" height="20px" src="https://raw.githubusercontent.com/livehass/files/master/messagif.gif" alt="Hello World gif" /></p>
+<p align="center"><img width="30%" height="2rem" src="https://raw.githubusercontent.com/livehass/files/master/messagif.gif" alt="Hello World gif" /></p>
  <h1>What's i'm learning now: <a href="https://github.com/livehass/Guia-estudos-front-end"> Meu Plano de Estudos<a/></h1>
  
  <code><img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
