@@ -1,4 +1,4 @@
-<div align="center"><br>
+<div align="center"></br>
  <a href="https://github.com/livehass" target="_blank"><img width="30%" src="https://raw.githubusercontent.com/livehass/files/master/livehass.gif" alt="Hello World gif" /></a>
 </div>
 <div align="center"">
