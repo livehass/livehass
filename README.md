@@ -1,7 +1,7 @@
-<div>
- <a href="https://github.com/livehass" target="_blank" align="center"><img width="30%" src="https://raw.githubusercontent.com/livehass/files/master/livehass.gif" alt="Hello World gif" /></a>
+<div align="center">
+ <a href="https://github.com/livehass" target="_blank"><img width="30%" src="https://raw.githubusercontent.com/livehass/files/master/livehass.gif" alt="Hello World gif" /></a>
 </div>
-<div align="center"">
+<div align="center">
  <h1>What's i'm learning now: <a href="https://github.com/livehass/Guia-estudos-front-end"> Meu Plano de Estudos<a/></h1>
  <code><img alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
  <code><img alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
