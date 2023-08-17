@@ -25,7 +25,7 @@
 </div>
 <div align="center">
 
-   
+   ![snake svg](https://github.com/livehass/livehass/blob/output/github-contribution-grid-snake-dark.svg) 
  
 </div>
 
