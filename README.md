@@ -74,7 +74,9 @@
 </div>
 <div align="center">
 
-   ![snake svg](https://github.com/livehass/livehass/blob/output/github-contribution-grid-snake-dark.svg) 
+   ![snake svg](https://github.com/livehass/livehass/blob/output/github-contribution-grid-snake-dark.svg)
+   ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=livehass&theme=github_dark) 
+
  
 </div>
 
