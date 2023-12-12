@@ -1,9 +1,9 @@
 <div align="center">
- <a href="https://github.com/livehass" target="[_blank]()"><img width="30%" src="https://raw.githubusercontent.com/livehass/files/master/livehass.gif" alt="Hello World gif" /></a>
+ 
+![Jorge Felipe](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hello+I'm+Jorge+Felipe;Welcome👋👋👋)  
 </div>
 <div align="center">
- 
- <h1>What's i'm learning now<a href="https://github.com/livehass/Guia-estudos-front-end"> Meu Plano de Estudos<a/></h1>
+ <h1>What's I'm Learning Now. Meu Plano de Estudos<a/></h1>
   <table>
    </tr>
     </td>
@@ -60,22 +60,32 @@
     </td>
     </tr>
   </table>
-</div> 
-<div align="center"> 
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livehass&layout=donut&theme=transparent)]()
- 
-</div> 
-<div align="center"> 
+</div>
+  <div align="center">
  <h2>You can reach me,<a href="mailto:Silva.felipe12@hotmail.com"> Meus contatos<a/> </h2>
  <a href="https://www.linkedin.com/in/jorge-felipe-silva-26b29b11a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
  <a href="mailto:Silva.felipe12@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black" target="_blank"></a>
  <a href="https://www.instagram.com/felipe.siper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-</div>
-<div align="center">
+ </div >
+ <div align="center">
+  <h1></h1>
 
-   ![snake svg](https://github.com/livehass/livehass/blob/output/github-contribution-grid-snake-dark.svg)
-   ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=livehass&theme=github_dark) 
+
+
+   
+
+   
+   
+   
+
+   
+</div> 
+
+<div align="center">
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livehass&layout=compact&theme=transparent)
+  ![snake svg](https://github.com/livehass/livehass/blob/output/github-contribution-grid-snake-dark.svg)
+   
 
  
 </div>
