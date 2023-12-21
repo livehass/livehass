@@ -1,9 +1,12 @@
 <div align="center">
  
 ![Jorge Felipe](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hello+I'm+Jorge+Felipe;Welcome👋👋👋)  
-</div>
+
+ <h2><a href="mailto:S">Desenvolvedor Java Fullstack Bootcamp Generation.org<a/> </h2>
+</div
+ 
 <div align="center">
- <h1>What's I'm Learning Now. Meu Plano de Estudos<a/></h1>
+ <h2 align="center">Tecnologias que estudo atualmente<a/></h2>
   <table>
    </tr>
     </td>
