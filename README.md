@@ -8,8 +8,12 @@
    </tr>
     </td>
      <td align="center" width="96">
-       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="40" height="40"/> </a>
+       <a href="https://maven.apache.org/" target="_blank"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="40" height="40"/> </a>
        <br>Java</br>
+    </td>
+        <td align="center" width="96">
+       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373290/maven-opened.svg" alt="java" width="40" height="40"/> </a>
+       <br>Apache Maven</br>
     </td>
     </td>
      <td align="center" width="96">
