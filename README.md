@@ -6,22 +6,13 @@
 </div
  
 <div align="center">
- <h2 align="center">Tecnologias que estudo atualmente<a/></h2>
+ <h2 align="center">Linguagens<a/></h2>
   <table align="center">
    </tr>
     </td>
      <td align="center" width="65">
-       <a href="https://maven.apache.org/" target="_blank"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="30" height="30"/> </a>
-       <br>Java</br>
-    </td>
-        <td align="center" width="65">
-       <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373290/maven-opened.svg" alt="java" width="30" height="30"/> </a>
-       <br>Apache Maven</br>
-    </td>
-    </td>
-     <td align="center" width="65">
-       <a href="sql" target="_blank"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="30" height="30"/> </a>
-       <br>Mysql</br>
+       <a href="https://www.java.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="30" height="30"/> </a>
+       <br>JavaLang</br>
     </td>
      <td align="center" width="65">
        <a href="js" target="_blank"> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="30" height="30"/> </a>
@@ -31,6 +22,21 @@
        <a href="js" target="_blank"> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="js" width="30" height="30"/> </a>
        <br>TypeScript</br>
     </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+ <h2 align="center">Tecnologias<a/></h2>
+  <table align="center">
+   </tr>
+        <td align="center" width="65">
+       <a href="https://maven.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/373290/maven-opened.svg" alt="java" width="30" height="30"/> </a>
+       <br>Apache Maven</br>
+    </td>
+    </td>
+     <td align="center" width="65">
+       <a href="sql" target="_blank"> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="30" height="30"/> </a>
+       <br>Mysql</br>
     </td>
        <td align="center" width="65">
        <a href="js" target="_blank"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="js" width="30" height="30"/> </a>
