@@ -71,6 +71,16 @@
        <a href="git" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/> </a>
        <br>Git</br>
     </td>
+    </td>
+       <td align="center" width="65">
+       <a href="Insomnia" target="_blank"> <img src="https://www.svgrepo.com/show/353904/insomnia.svg" alt="Insomnia" width="30" height="30"/> </a>
+       <br>Insomnia</br>
+    </td>
+    </td>
+       <td align="center" width="65">
+       <a href="Postman" target="_blank"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="30" height="30"/> </a>
+       <br>Postman</br>
+    </td>
     </tr>
   </table>
 </div>
