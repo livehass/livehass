@@ -2,12 +2,12 @@
  
 ![Jorge Felipe](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hello+I'm+Jorge+Felipe;Welcome👋👋👋)  
 
- <h3> 👋 Olá! Eu sou um entusiasta da tecnologia e um apaixonado por programação e jogos, desde cedo enquanto jogava Team fortress <br>
+ <h4> 👋 Olá! Eu sou um entusiasta da tecnologia e um apaixonado por programação e jogos, desde cedo enquanto jogava Team fortress <br>
   Começei a querer entender como os jogos eram feitos, acabei com o tempo criando scripts em C++ que foi meu primeiro contato com tecnologia. <br>
-  Atualmente estudo análise e desenvolvimento de sistemas pela unip Universidade Paulista e pelo bootcamp de 450 horas da Generation.org Java Jr fullstack, tenho curiosidade por toda área desde o back-end ao front-end e suas ferramentas de desenvolvimento. </h3>
+  Atualmente estudo análise e desenvolvimento de sistemas pela unip Universidade Paulista e pelo bootcamp de 450 horas da Generation.org Java Jr fullstack, tenho curiosidade por toda área desde o back-end ao front-end e suas ferramentas de desenvolvimento. </h4>
 </div
 <div align="center">
- <h1 align="center">Linguagens<a/></h1>
+ <h2 align="center">Linguagens<a/></h2>
 </div>	 
   <table align="center">
    </tr>
