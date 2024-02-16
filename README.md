@@ -4,8 +4,9 @@
 
  <h2><a href="mailto:silva.felipe12@hotmail.com">Desenvolvedor Java Fullstack Bootcamp Generation.org<a/> </h2>
 </div
-
- <h2 align="center">Linguagens<a/></h2>
+<div align="center">
+ <h1 align="center">Linguagens<a/></h1>
+</div>	 
   <table align="center">
    </tr>
     </td>
@@ -27,7 +28,7 @@
 <div align="center">
  <h2 align="center">Tecnologias e Ferramentas<a/></h2>
   <table align="center">
-   </tr>
+   <tr>
         <td align="center" width="65">
        <a href="https://maven.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/373290/maven-opened.svg" alt="java" width="30" height="30"/> </a>
        <br>Apache Maven</br>
@@ -60,11 +61,8 @@
        <td align="center" width="65">
        <a href="css" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/> </a>
        <br>Css3</br>
-    </td>
-       <td align="center" width="65">
-       <a href="figma" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="30"/> </a>
-       <br>Figma</br>
-    </td>
+</tr>
+<tr>
     </td>
        <td align="center" width="65">
        <a href="git" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/> </a>
