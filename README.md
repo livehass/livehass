@@ -2,7 +2,9 @@
  
 ![Jorge Felipe](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hello+I'm+Jorge+Felipe;Welcome👋👋👋)  
 
- <h2><a href="mailto:silva.felipe12@hotmail.com">Desenvolvedor Java Fullstack Bootcamp Generation.org<a/> </h2>
+ <h3> 👋 Olá! Eu sou um entusiasta da tecnologia e um apaixonado por programação e jogos, desde cedo enquanto jogava Team fortress <br>
+  Começei a querer entender como os jogos eram feitos, acabei com o tempo criando scripts em C++ que foi meu primeiro contato com tecnologia. <br>
+  Atualmente estudo análise e desenvolvimento de sistemas pela unip Universidade Paulista e pelo bootcamp de 450 horas da Generation.org Java Jr fullstack, tenho curiosidade por toda área desde o back-end ao front-end e suas ferramentas de desenvolvimento. </h3>
 </div
 <div align="center">
  <h1 align="center">Linguagens<a/></h1>
@@ -97,29 +99,6 @@
     </td>
     </tr>
   </table>
-</div>
-  
- <div align="center">
-  <h1></h1>
-
-
-
-   
-
-   
-   
-   
-
-   
-</div> 
-
-<div align="center">
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livehass&layout=compact&theme=transparent)
-  ![snake svg](https://github.com/livehass/livehass/blob/output/github-contribution-grid-snake-dark.svg)
-   
-
- 
 </div>
 <div align="center">
  <h2>You can reach me,<a href="mailto:Silva.felipe12@hotmail.com"> Meus contatos<a/> </h2>
