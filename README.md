@@ -4,7 +4,7 @@
 
  <h2><a href="mailto:silva.felipe12@hotmail.com">Desenvolvedor Java Fullstack Bootcamp Generation.org<a/> </h2>
 </div
-<div align="center">
+
  <h2 align="center">Linguagens<a/></h2>
   <table align="center">
    </tr>
@@ -23,7 +23,7 @@
     </td>
     </tr>
   </table>
-</div>
+
 <div align="center">
  <h2 align="center">Tecnologias e Ferramentas<a/></h2>
   <table align="center">
