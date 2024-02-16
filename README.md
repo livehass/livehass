@@ -25,7 +25,7 @@
   </table>
 </div>
 <div align="center">
- <h2 align="center">Tecnologias<a/></h2>
+ <h2 align="center">Tecnologias e Ferramentas<a/></h2>
   <table align="center">
    </tr>
         <td align="center" width="65">
@@ -79,6 +79,23 @@
        <td align="center" width="65">
        <a href="Postman" target="_blank"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="30" height="30"/> </a>
        <br>Postman</br>
+    </td>
+   </td>
+       <td align="center" width="65">
+       <a href="https://yarnpkg.com/" target="_blank"> <img src="https://raw.githubusercontent.com/livehass/files/master/yarn-seeklogo.svg" alt="Yarn" width="30" height="30"/> </a>
+       <br>Yarn</br>
+    </td>
+     <td align="center" width="65">
+       <a href="https://www.npmjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="Npm" width="30" height="30"/> </a>
+       <br>Npm</br>
+    </td>
+     <td align="center" width="65">
+       <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="30" height="30"/> </a>
+       <br>Tailwind</br>
+    </td>
+      <td align="center" width="65">
+       <a href="https://vitejs.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="30" height="30"/> </a>
+       <br>Vite</br>
     </td>
     </tr>
   </table>
