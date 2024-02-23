@@ -99,6 +99,11 @@
     </td>
     </tr>
   </table>
+  
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livehass&theme=transparent&layout=donut)](https://github.com/livehass/github-readme-stats)
+
+  
 </div>
 <div align="center">
  <h2>You can reach me,<a href="mailto:Silva.felipe12@hotmail.com"> Meus contatos<a/> </h2>
