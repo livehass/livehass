@@ -3,19 +3,17 @@
 ![Jorge Felipe](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hello+I'm+Jorge+Felipe;Welcome👋👋👋👋👋👋)  
  </div
 <div align="left">
- <h2 ">‎  About Me<a> ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ Contact<a/></h2> 
+ <h2 ">‎  About Me<a> ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ Contact<a/></h2> 
   
   <a align="right" href="mailto:Silva.felipe12@hotmail.com"><img  align="right" src="https://www.shareicon.net/data/48x48/2016/12/07/862708_email_512x512.png" target="_blank"></a>
   <a align="right" href="https://www.linkedin.com/in/felipesiper/"><img align="right"  src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  
  </div >
-
-
-  <h4>I'm a Fullstack developer pasionated for code build and deploy front-end apps, with react<br>
+  <h3>I'm a Fullstack developer pasionated for code build and deploy front-end apps<br> with react
   and build backend applications with java spring and typescript.
 
   Current working on my personal [portfolio](https://github.com/livehass/single-page-application-portfolio-react) website with react 
-  </h4><br>
+  </h3><br>
   
 </div>	
 <h2 ">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Current Using:<a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎Tools And Frameworks That I'm Familiar With:<a/> </h2> 
