@@ -1,12 +1,26 @@
 <div align="center">
  
-![Jorge Felipe](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hello+I'm+Jorge+Felipe;Welcome👋👋👋)  
- <h4> A passionate fullstack developer focused in create front end apps in react and backend with java spring  </h4>
-</div
-<div align="center">
- <h4 align="center">Lenguagens<a/></h4>
-</div>	 
-  <table align="center">
+![Jorge Felipe](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hello+I'm+Jorge+Felipe;Welcome👋👋👋👋👋👋)  
+ </div
+<div align="left">
+ <h2 ">‎ ‎About Me‎ ‎ ‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎‎ ‎‎ ‎ ‎Contacts<a/></h2>
+  
+  <a align="right" href="mailto:Silva.felipe12@hotmail.com"><img  align="right" src="https://www.shareicon.net/data/48x48/2016/12/07/862708_email_512x512.png" target="_blank"></a>
+  <a align="right" href="https://www.linkedin.com/in/felipesiper/"><img align="right"  src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ 
+ </div >
+
+
+  <h4>I'm a Fullstack developer pasionated for code build and deploy front-end apps, with react<br>
+  and build backend applications with java spring and typescript.
+
+  Current working on my personal [portfolio](https://github.com/livehass/single-page-application-portfolio-react) website with react 
+  </h4><br>
+  
+</div>	
+<h2 ">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Current Using:<a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎Tools And Frameworks That I'm Familiar With:<a/> </h2> 
+ 
+  <table align="left">
    </tr>
     </td>
      <td align="center" width="65">
@@ -25,12 +39,12 @@
   </table>
 
 <div align="center">
- <h2 align="center">Tecnologias e Ferramentas<a/></h2>
+ 
   <table align="center">
    <tr>
         <td align="center" width="65">
        <a href="https://maven.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/373290/maven-opened.svg" alt="java" width="30" height="30"/> </a>
-       <br>Apache Maven</br>
+       <br>Maven</br>
     </td>
     </td>
      <td align="center" width="65">
@@ -60,6 +74,7 @@
        <td align="center" width="65">
        <a href="css" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="30" height="30"/> </a>
        <br>Css3</br>
+   
 </tr>
 <tr>
     </td>
@@ -95,16 +110,12 @@
        <br>Vite</br>
     </td>
     </tr>
+   
   </table>
   
+  
 </div>
-<div align="center">
- <h2>You can reach me,<a href="mailto:Silva.felipe12@hotmail.com"> Meus contatos<a/> </h2>
- <a href="https://www.linkedin.com/in/jorge-felipe-silva-26b29b11a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
- <a href="mailto:Silva.felipe12@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black" target="_blank"></a>
- <a href="https://www.instagram.com/felipe.siper/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
- </div >
-
+<div align="center" >
 
 
 
