@@ -1,9 +1,7 @@
 <div align="center">
  
 ![Jorge Felipe](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hello+I'm+Jorge+Felipe;Welcome👋👋👋)  
-
- <h4> 👋 Hello friend! I'm Jorge Felipe  </h4>
- <h5> A passionate fullstack developer focused in create front end apps in react and backend with java spring.</h5>
+ <h4> A passionate fullstack developer focused in create front end apps in react and backend with java spring  </h4>
 </div
 <div align="center">
  <h4 align="center">Lenguagens<a/></h4>
@@ -98,10 +96,6 @@
     </td>
     </tr>
   </table>
-  
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livehass&theme=transparent&layout=donut)](https://github.com/livehass/github-readme-stats)
-
   
 </div>
 <div align="center">
