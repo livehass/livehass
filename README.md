@@ -3,10 +3,10 @@
 ![Jorge Felipe](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hello+I'm+Jorge+Felipe;Welcome👋👋👋👋👋👋)  
  </div
 <div align="left">
- <h2>‎  About Me<a> ‎‎ ‎ ‎ ‎  ‎  ‎  ‎  ‎ ‎  ‎  ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ Contact<a/></h2> 
+ <h2>‎  About Me<a> ‎‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎  ‎ ‎  ‎  ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ Contact<a/></h2> 
  </div>
-    <a  href="mailto:Silva.felipe12@hotmail.com" target="_blank"><img  src="https://www.shareicon.net/data/48x48/2016/12/07/862708_email_512x512.png" align="right"></a>
-    <a  href="https://www.linkedin.com/in/felipesiper/" target="_blank"> <img  src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" align="right"/></a>
+    <div href="mailto:Silva.felipe12@hotmail.com" target="_blank"><img  src="https://www.shareicon.net/data/48x48/2016/12/07/862708_email_512x512.png" alt="Email" align="right" ></div >
+    <div href="https://www.linkedin.com/in/felipesiper/" target="_blank"> <img  src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" align="right" ></div>
   <h3>I'm a Fullstack developer pasionated for code build and deploy front-end apps<br> with react
   and build backend applications with java spring and typescript.
 
