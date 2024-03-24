@@ -1,16 +1,16 @@
-v<div align="center">
+<div align="center">
  
-![Jorge Felipe](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hello+I'm+Jorge+Felipe;Fullstack‎‎‎-Developer👨🏻‍💻)  
+![Jorge Felipe](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Olá+Sou-o+Jorge+Felipe;Dev-Fullstack👨🏻‍💻)  
  </div
 <div align="left">
- <h2>‎  About Me<a> ‎‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ Contact<a/></h2> 
+ <h2>‎  Sobre mim<a> ‎‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ Contato<a/></h2> 
  </div>
     <a href="mailto:Silva.felipe12@hotmail.com" ><img  src="https://www.shareicon.net/data/48x48/2016/12/07/862708_email_512x512.png" alt="Email" align="right" ></a>
     <a href="https://www.linkedin.com/in/felipesiper/"> <img  src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" align="right" ></a>
-  <h3>I'm a Fullstack developer pasionated for code build and deploy front-end apps<br> with react
-  and build backend applications with java spring and typescript.
+  <h3>Sou um desenvolvedor Fullstack apaixonado por  código e desenvolvimento de aplicativos front-end<br> com react
+  e desenvolver aplicativos de back-end com java spring e typescript.
 
-  Current working on my personal [portfolio](https://github.com/livehass/single-page-application-portfolio-react) website with react 
+  Atualmente trabalhando no meu [portfólio](https://github.com/livehass/single-page-application-portfolio-react) site em  react 
   </h3><br>
   
 </div>	
