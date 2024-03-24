@@ -108,7 +108,7 @@
     </tr>
   </table>
   <div>
-   <a align="center" >  ‎   ‎   ‎   ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ 🗳️I'm currently open to work, feel free to contact me</a>
+   <a align="center" > ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎    ‎   ‎   ‎   ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ 🗳️I'm currently open to work, feel free to contact me</a>
   </div>
   </div>
 <div align="center" >
