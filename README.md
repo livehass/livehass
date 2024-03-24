@@ -108,9 +108,9 @@
     </tr>
   </table>
   <div>
-   <a align="center" >  ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎    ‎   ‎   ‎   ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ 🗳️I'm currently open to work, feel free to contact me</a>
+   <a align="center" >  ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎    ‎   ‎   ‎   ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ <img src="https://img.icons8.com/?size=256&id=aJPLw-4jUCR3&format=png " width="20" >I'm currently open to work, feel free to contact me.</a>
   </div>
-  <a  align="right"  target="https://github.com/livehass/livehass/blob/main/README-PTBR.md" src="https://cdn.icon-icons.com/icons2/2088/PNG/512/br_icon_128192.png"> ‎‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ <img src="https://cdn.icon-icons.com/icons2/2088/PNG/512/br_icon_128192.png" width="20" alt="logo"> ‎Versão em português</a>
+  <a  align="right"  target="https://github.com/livehass/livehass/blob/main/README-PTBR.md" src="https://cdn.icon-icons.com/icons2/2088/PNG/512/br_icon_128192.png"> ‎‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ <img src="https://cdn.icon-icons.com/icons2/2088/PNG/512/br_icon_128192.png" width="20" alt="logo"> ‎Versão em português.</a>
   </div>
 <div align="center" >
 
