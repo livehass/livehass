@@ -1,4 +1,4 @@
-<div align="center">
+v<div align="center">
  
 ![Jorge Felipe](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hello+I'm+Jorge+Felipe;Fullstack‎‎‎-Developer👨🏻‍💻)  
  </div
@@ -108,7 +108,7 @@
     </tr>
   </table>
   <div>
-   <a align="center" > ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎    ‎   ‎   ‎   ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ 🗳️I'm currently open to work, feel free to contact me</a>
+   <a align="center" > ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎    ‎   ‎   ‎   ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ 🗳️I'm currently open to work, feel free to contact me</a>
   </div>
   </div>
 <div align="center" >
