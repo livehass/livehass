@@ -107,27 +107,24 @@
     </td>
     </tr>
   </table>
-  <div>
-   <a align="center" >  ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎    ‎   ‎   ‎   ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ <img src="https://img.icons8.com/?size=256&id=aJPLw-4jUCR3&format=png " width="20" >I'm currently open to work, feel free to contact me.</a>
-  </div>
-  <a  align="right"  target="https://github.com/livehass/livehass/blob/main/README-PTBR.md" src="https://cdn.icon-icons.com/icons2/2088/PNG/512/br_icon_128192.png"> ‎‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ <img src="https://cdn.icon-icons.com/icons2/2088/PNG/512/br_icon_128192.png" width="20" alt="logo"> ‎Versão em português.</a>
   </div>
 <div align="center" >
 
-<h1 align="left">Contributions</h1>
-
-  <p>
-    <a href="https://github.com/olaleye-blessing/github-readme-stats"><img alt="livehass's Github Stats" src="https://github-readme-stats.vercel.app/api?username=livehass&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="livehass's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livehass&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<h1 align="left">📊 Languages</h1>
+  <p >
+    <a href="https://github.com/olaleye-blessing/github-readme-stats">‎<img alt="livehass's Github Stats" src="https://github-readme-stats.vercel.app/api?username=livehass&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"> <img alt="livehass's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livehass&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-## 📊 Activity Graph
+
+<h1 align="left">📊 Activity Graph</h1>
 
 [![Livehass's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=livehass&theme=react-dark)](https://github.com/olaleye-blessing/github-readme-activity-graph)
 
 
-
+ <a  href="https://www.linkedin.com/in/felipesiper/" >‎‎<img src="https://img.icons8.com/?size=256&id=aJPLw-4jUCR3&format=png" width="20"/> I'm currently open to work, feel free to contact me.</a></br>
+ <a  href="https://github.com/livehass/livehass/blob/main/README-PTBR.md" target="_blank"> <img  src="https://cdn.icon-icons.com/icons2/2088/PNG/512/br_icon_128192.png" alt="Vite" width="20" /> Versão em português.</a>
 
 
