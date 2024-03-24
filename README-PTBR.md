@@ -14,7 +14,7 @@
   </h3><br>
   
 </div>	
-<h2 ">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Atualmente usando<a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎Ferramentas e frameworks com os quais estou familiarizado<a/> </h2> 
+<h2 ">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Atualmente usando<a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎‎Ferramentas com os quais estou familiarizado<a/> </h2> 
  
   <table align="left">
    </tr>
@@ -108,7 +108,7 @@
     </tr>
   </table>
   <div>
-   <a align="center" >  ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎    ‎   ‎   ‎   ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ 🗳️No momento estou aberto para vagas, sinta-se à vontade para entrar em contato comigo</a>
+   <a align="center" >🗳️No momento estou aberto para vagas, sinta-se à vontade para entrar em contato comigo</a>
   </div>
   </div>
 <div align="center" >
