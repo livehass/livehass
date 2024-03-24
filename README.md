@@ -5,8 +5,8 @@
 <div align="left">
  <h2>‎  About Me<a> ‎‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ Contact<a/></h2> 
  </div>
-    <div href="mailto:Silva.felipe12@hotmail.com" target="_blank"><img  src="https://www.shareicon.net/data/48x48/2016/12/07/862708_email_512x512.png" alt="Email" align="right" ></div >
-    <div href="https://www.linkedin.com/in/felipesiper/" target="_blank"> <img  src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" align="right" ></div>
+    <a href="mailto:Silva.felipe12@hotmail.com" ><img  src="https://www.shareicon.net/data/48x48/2016/12/07/862708_email_512x512.png" alt="Email" align="right" ></a>
+    <a href="https://www.linkedin.com/in/felipesiper/"> <img  src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" align="right" ></a>
   <h3>I'm a Fullstack developer pasionated for code build and deploy front-end apps<br> with react
   and build backend applications with java spring and typescript.
 
