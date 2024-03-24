@@ -114,7 +114,18 @@
   </div>
 <div align="center" >
 
+<h1 align="left">Contributions</h1>
 
+  <p>
+    <a href="https://github.com/olaleye-blessing/github-readme-stats"><img alt="livehass's Github Stats" src="https://github-readme-stats.vercel.app/api?username=livehass&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="livehass's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livehass&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+## 📊 Activity Graph
+
+[![Livehass's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=livehass&theme=react-dark)](https://github.com/olaleye-blessing/github-readme-activity-graph)
 
 
 
