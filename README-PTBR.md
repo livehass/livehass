@@ -14,7 +14,7 @@
   </h3><br>
   
 </div>	
-<h2 ">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Current Using<a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎Tools And Frameworks That I'm Familiar With<a/> </h2> 
+<h2 ">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ Atualmente usando<a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎Ferramentas e frameworks com os quais estou familiarizado<a/> </h2> 
  
   <table align="left">
    </tr>
@@ -108,7 +108,7 @@
     </tr>
   </table>
   <div>
-   <a align="center" >  ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎    ‎   ‎   ‎   ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ 🗳️I'm currently open to work, feel free to contact me</a>
+   <a align="center" >  ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎   ‎    ‎   ‎   ‎   ‎   ‎   ‎   ‎  ‎   ‎   ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ ‎ ‎  ‎  ‎  ‎  ‎  ‎   ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎ 🗳️No momento estou aberto para vagas, sinta-se à vontade para entrar em contato comigo</a>
   </div>
   </div>
 <div align="center" >
