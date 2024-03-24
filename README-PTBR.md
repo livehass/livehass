@@ -14,7 +14,7 @@
   </h3><br>
   
 </div>	
-<h2 ">‎ ‎ ‎ ‎ ‎ ‎ Atualmente usando<a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎‎Ferramentas com os quais estou familiarizado<a/> </h2> 
+<h2 ">‎ ‎ ‎ ‎‎ Atualmente usando<a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎‎ ‎‎‎Ferramentas com os quais estou familiarizado<a/> </h2> 
  
   <table align="left">
    </tr>
