@@ -39,7 +39,7 @@
   <table align="center">
    <tr>
         <td align="center" width="65">
-       <a href="https://maven.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/373290/maven-opened.svg" alt="java" width="30" height="30"/> </a>
+       <a href="https://maven.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/373290/maven-opened.svg" alt="java" align="center" width="30" height="30"/> </a>
        <br>Maven</br>
     </td>
     </td>
