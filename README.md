@@ -7,7 +7,7 @@
  </div>
     <a href="mailto:Silva.felipe12@hotmail.com" ><img  src="https://www.shareicon.net/data/48x48/2016/12/07/862708_email_512x512.png" alt="Email" align="right" ></a>
     <a href="https://www.linkedin.com/in/felipesiper/"> <img  src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" align="right" ></a>
-  <h3>I'm a Fullstack developer pasionated for code build and deploy front-end apps<br> with react
+  <h3>I'm a Fullstack developer passionated for code build and deploy front-end apps<br> with react
   and build backend applications with java spring and typescript.
 
   Current working on my personal [portfolio](https://github.com/livehass/single-page-application-portfolio-react) website with react 
