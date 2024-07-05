@@ -119,10 +119,6 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<h1 align="left">📊 Activity Graph</h1>
-
-[![Livehass's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=livehass&theme=react-dark)](https://github.com/livehass/livehass)
-
 
  <a  href="https://www.linkedin.com/in/felipesiper/" >‎‎<img src="https://img.icons8.com/?size=256&id=aJPLw-4jUCR3&format=png" width="20"/> I'm currently open to work, feel free to contact me.</a></br>
  <a  href="https://github.com/livehass/livehass/blob/main/README-PTBR.md" target="_blank"> <img  src="https://cdn.icon-icons.com/icons2/2088/PNG/512/br_icon_128192.png" alt="Vite" width="20" /> Versão em português.</a>
