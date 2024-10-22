@@ -7,8 +7,9 @@
  
 
 
-
-### <img src="https://i.gifer.com/24S2.gif" width="50"> Some things about me
+<div align="left">
+ <h2><img src="https://i.gifer.com/24S2.gif" width="50"> Some things about me....</h2>
+</div>
 
 ```javascript
 const jorgeFelipe = {
