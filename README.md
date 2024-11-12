@@ -5,6 +5,8 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/livehass?label=follow&style=social)](https://github.com/livehass)
 
  
+ 
+You can see more about me on my [Portfolio](https://www.jorgefelipe.tech/).
 
 
 <div align="left">
