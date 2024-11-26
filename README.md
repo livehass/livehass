@@ -1,8 +1,8 @@
 <h2> Hi, I'm Jorge Felipe! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjh6NG5raXUyZmx1dnNyd29zMTQ3OGUzN2JmbnJmdzc2amJwcXd4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UT1lEusLQcGGzADE1D/giphy.gif" width="50"></h2>
 
 [![Twitter: JorgeFelipe](https://img.shields.io/twitter/follow/sieuus?style=social)](https://x.com/Sieuus)
-[![Linkedin: jorgefelipe](https://img.shields.io/badge/-jorgefelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesiper/)](https://www.linkedin.com/in/felipesiper)
-[![GitHub Thaiane](https://img.shields.io/github/followers/livehass?label=follow&style=social)](https://github.com/livehass)
+[![Linkedin: JorgeFelipe](https://img.shields.io/badge/-jorgefelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesiper/)](https://www.linkedin.com/in/felipesiper)
+[![GitHub JorgeFelipe](https://img.shields.io/github/followers/livehass?label=follow&style=social)](https://github.com/livehass)
 
  
  
