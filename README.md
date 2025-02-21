@@ -1,39 +1,47 @@
-<h2> Hi, I'm Jorge Felipe! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjh6NG5raXUyZmx1dnNyd29zMTQ3OGUzN2JmbnJmdzc2amJwcXd4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UT1lEusLQcGGzADE1D/giphy.gif" width="50"></h2>
+# Hello, I'm Jorge Felipe! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjh6NG5raXUyZmx1dnNyd29zMTQ3OGUzN2JmbnJmdzc2amJwcXd4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UT1lEusLQcGGzADE1D/giphy.gif" alt="GIF" width="50" height="38" />
 
-[![Twitter: JorgeFelipe](https://img.shields.io/twitter/follow/sieuus?style=social)](https://x.com/Sieuus)
-[![Linkedin: JorgeFelipe](https://img.shields.io/badge/-jorgefelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesiper/)](https://www.linkedin.com/in/felipesiper)
-[![GitHub JorgeFelipe](https://img.shields.io/github/followers/livehass?label=follow&style=social)](https://github.com/livehass)
+[![LinkedIn: JorgeFelipe](https://img.shields.io/badge/-jorgefelipe-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipesiper/)
+[![GitHub: JorgeFelipe](https://img.shields.io/github/followers/livehass?label=follow&style=social)](https://github.com/livehass)
 
- 
- 
-You can see more about me on my [Portfolio](https://www.jorgefelipe.tech/).
+Welcome to my GitHub profile. My name is Jorge Felipe and I am a dedicated professional committed to developing high-quality, high-performance applications in both front-end and back-end environments. I am currently transitioning into the technology sector, deepening my knowledge in fullstack solutions and focusing on the creation of functional and efficient applications.
 
+---
 
-<div align="left">
- <h2><img src="https://i.gifer.com/24S2.gif" width="50"> Some things about me....</h2>
-</div>
+## Technical Skills
 
-```javascript
-const jorgeFelipe = {
-  code: ["TypeScript", "Javascript", "Java"],
-    askMeAbout: ["web dev", "back-end dev",  "UI/UX"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Angular"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI",  "Styled-Components", "Next UI"],
-        },
-        backEnd: {
-            js: ["Node", "Hono", "Express.js"],
-            java: ["spring"],
-        },
- challenge: "Now I'm focused on learning Angular with Typescript"
-}
-```
+- **Programming Languages:** Java, TypeScript, JavaScript
+- **Frameworks and Libraries:** React, Next.js, Angular, Spring Boot
+- **Back-End:** Node.js, Express.js, Hono, RESTful APIs
+- **Dependency Managers and Build Tools:** Maven, Gradle, npm, pnpm, yarn
+- **Front-End Build Tools:** Vite
+- **Databases:** PostgreSQL, MySQL
+- **CSS Frameworks and Preprocessors:** Sass, Tailwind, Bootstrap
+- **Containerization and Cloud:** Docker, Azure
 
+---
 
+## Notable Projects
 
- 
-<div align="left">
-<a  href="https://www.linkedin.com/in/felipesiper/" >‎‎<img src="https://img.icons8.com/?size=256&id=aJPLw-4jUCR3&format=png" width="20"/> I'm currently open to work, feel free to contact me.</a></br>
-</div
+- **[Next Portfolio](https://github.com/livehass/nextportfolio):**  
+  A modern portfolio website built using Next.js. This project features a responsive and sophisticated design, leveraging advanced Next.js features for optimized rendering and seamless navigation.  
+  **Technologies:** Next.js, React, and Tailwind CSS
+
+- **[Travel Backpack with localStorage](https://github.com/livehass/Travel-backpack-with-localStorage):**  
+  A practical application that utilizes localStorage to store and manage travel information. Its intuitive interface allows users to log their journeys and efficiently plan future trips.  
+  **Technologies:** JavaScript, HTML, CSS, with extensive use of localStorage
+
+- **[Personal Goals App](https://github.com/livehass/personal-goals-app):**  
+  An application designed for tracking and managing personal goals. Built to help organize daily objectives, this project emphasizes simplicity and productivity.  
+  **Technologies:** React, JavaScript, and CSS
+
+Feel free to explore my projects and follow my contributions.
+
+---
+
+## Contact
+
+If you would like to discuss collaboration opportunities or share insights about technology, please connect with me on [LinkedIn](https://www.linkedin.com/in/felipesiper/).
+
+---
+
+Texto em pt-br: [README em Português](./README_pt.md)
