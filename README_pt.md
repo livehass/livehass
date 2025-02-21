@@ -44,5 +44,5 @@ Para discutir oportunidades de colaboração ou trocar experiências sobre tecno
 
 ---
 
-Read README in English: [README in English](./README.md)
+Read README in English: [README in English](https://github.com/livehass)
 ```
