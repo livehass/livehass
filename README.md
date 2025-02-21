@@ -21,7 +21,7 @@ const jorgeFelipe = {
         frontEnd: {
             js: ["React", "Next.js", "Angular"],
             css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI",  "Styled-Components", "Next UI],
+            uiLibraries: ["Material UI",  "Styled-Components", "Next UI"],
         },
         backEnd: {
             js: ["Node", "Hono", "Express.js"],
