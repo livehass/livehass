@@ -18,26 +18,6 @@ Welcome to my GitHub profile. My name is Jorge Felipe and I am a dedicated profe
 - **CSS Frameworks and Preprocessors:** Sass, Tailwind, Bootstrap
 - **Containerization and Cloud:** Docker, Azure
 
----
-
-## Notable Projects
-
-- **[Next Portfolio](https://github.com/livehass/nextportfolio):**  
-  A modern portfolio website built using Next.js. This project features a responsive and sophisticated design, leveraging advanced Next.js features for optimized rendering and seamless navigation.  
-  **Technologies:** Next.js, React, and Tailwind CSS
-
-- **[Travel Backpack with localStorage](https://github.com/livehass/Travel-backpack-with-localStorage):**  
-  A practical application that utilizes localStorage to store and manage travel information. Its intuitive interface allows users to log their journeys and efficiently plan future trips.  
-  **Technologies:** JavaScript, HTML, CSS, with extensive use of localStorage
-
-- **[Personal Goals App](https://github.com/livehass/personal-goals-app):**  
-  An application designed for tracking and managing personal goals. Built to help organize daily objectives, this project emphasizes simplicity and productivity.  
-  **Technologies:** React, JavaScript, and CSS
-
-Feel free to explore my projects and follow my contributions.
-
----
-
 ## Contact
 
 If you would like to discuss collaboration opportunities or share insights about technology, please connect with me on [LinkedIn](https://www.linkedin.com/in/felipesiper/).
